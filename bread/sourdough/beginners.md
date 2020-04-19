@@ -81,6 +81,7 @@ This is a broken down recipe sheet version of https://www.theperfectloaf.com/beg
 
 
 ## Bake
+(1hr preheat, 50min bake, 1-2hour wait)
 1. Place dutch oven in oven and preheat oven to 500F 1 hour before baking
 2. Once preheating is complete: Take dough bowl out of fridge. Put a piece of parchment paper over the top of the bowl so it is covered. Invert onto pizza peel.
 3. Score the loaf (however you want)
