@@ -89,6 +89,8 @@ This is a broken down recipe sheet version of https://www.theperfectloaf.com/beg
 6. Remove from dutch oven and cool on wire rack for 1-2hours
 7. If baking second loaf: replace covered dutch oven into oven and bring temp back to 500F
 
+---
+# Appendix
 ### Folds
 1. Wet hands
 2. Lift up top of the dough with two hands, stretch high enough so you can fold it comepletely over to the other side
