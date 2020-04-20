@@ -21,7 +21,7 @@ This is a broken down recipe sheet version of https://www.theperfectloaf.com/beg
 |49|Rye flour|
 |18|Salt|
 |691|Water|
-|184g|Levain|
+|184|Levain|
 
 ## Total Formula (this honestly isn't very useful, you're gonna be doing the levain separately from the dough so look at those)
 |Weight (g)|Ingredient|Percentage (%)|
