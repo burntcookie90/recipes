@@ -59,4 +59,3 @@ Active: 5 min, Wait: 4 hours
 3. Invert loaf onto a lightly floured surface, or onto a parchment lined pizza peel. Score if you want.
 4. Cover and bake for 30min
 5. Uncover and bake for 20-25min. Medium dark to very dark brown is done
-6. 
