@@ -8,30 +8,30 @@ This is a broken down recipe sheet version of https://www.theperfectloaf.com/beg
 ## Levain formula
 |Weight (g)|Ingredient|Percentage (%)|
 |--|--|--|
-|37|Starter|50|
-|37|Whole wheat flour|50|
-|37|Bread flour|50|
-|74|Water|100|
+|38|Starter|50|
+|38|Whole wheat flour|50|
+|38|Bread flour|50|
+|76|Water|100|
 
 ## Dough formula
 |Weight (g)|Ingredient|
 |--|--|
-|748|Bread flour|
-|110|Whole wheat flour|
-|49|Rye flour|
+|773|Bread flour|
+|114|Whole wheat flour|
+|51|Rye flour|
 |18|Salt|
-|691|Water|
+|653|Water|
 |184|Levain|
 
 ## Total Formula (this honestly isn't very useful, you're gonna be doing the levain separately from the dough so look at those)
 |Weight (g)|Ingredient|Percentage (%)|
 |--|--|--|
-|785|Bread flour|80|
-|147|Whole wheat flour|15|
-|49|Rye flour|5|
-|765|Water|78|
+|811|Bread flour|80|
+|152|Whole wheat flour|15|
+|51|Rye flour|5|
+|730|Water|78|
 |18|salt|1.8|
-|37|starter|3.75|
+|38|starter|3.75|
 
 # Recipe
 ## Levain 
